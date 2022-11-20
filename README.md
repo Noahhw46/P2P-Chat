@@ -4,7 +4,7 @@ This is a simple chat application heavily based on the [Python Client Server]("h
 
 ## Usage
 
-To run the application, simply run the 'messenger.py' file. It will ask if you want to run in start or connect mode (basically server or client) with the --mode option. Specify the port you want to use with the --port option. Specify the host you want to connect to with the --host option, and you're good to go. You need to have one instance of the application running in start mode and one in connect mode.
+* To run the application, simply run the 'messenger.py' file. It will ask if you want to run in start or connect mode (basically server or client) with the --mode option. Specify the port you want to use with the --port option. Specify the host you want to connect to with the --host option, and you're good to go. You need to have one instance of the application running in start mode and one in connect mode.
 
     ex.)
     python messenger.py --mode start --host localhost --port 12345
