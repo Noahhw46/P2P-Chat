@@ -1,6 +1,6 @@
 # Peer to Peer Python Chat
 
-This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted a simple chat application with an extremebly barebones protocol. I also wanted to learn more about the Python socket library. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. 
+This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted a simple chat application with an extremebly barebones protocol in order to learn more about reverse engineering network protocols. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. 
 
 ## Usage
 
@@ -11,3 +11,7 @@ This is a simple chat application heavily based on the [Python Client Server](ht
 
 One thing to note is that if you want to connect to a computer on the same network, you need to use the IP address of your computer on the interface you want to use. 
 
+
+## Future
+
+* I'm hoping this will be an ongoing project where I try out different protocols and reverse engineering methods. I want to add basic encryption, authentication, message signing etc. 
