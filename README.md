@@ -14,4 +14,7 @@ One thing to note is that if you want to connect to a computer on the same netwo
 
 ## Future
 
-* I'm hoping this will be an ongoing project where I try out different protocols and reverse engineering methods. I want to add basic encryption, authentication, message signing etc. 
+* I'm hoping this will be an ongoing project where I try out different protocols and reverse engineering methods. I want to add basic encryption, authentication, message signing etc.
+* Add cool colors
+* More in-chat commands like '/help', '/quit', maybe stuff to change a future nickname, colors, etc.
+* Usernames and passwords
