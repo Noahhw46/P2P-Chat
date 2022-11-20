@@ -11,3 +11,7 @@ This is a simple chat application heavily based on the [Python Client Server](ht
 
 One thing to note is that if you want to connect to a computer on the same network, you need to use the IP address of your computer on the interface you want to use. 
 
+
+## Future
+
+* I'm hoping this will be an ongoing project where I try out different protocols and reverse engineering methods. I want to add basic encryption, authentication, message signing etc. 
