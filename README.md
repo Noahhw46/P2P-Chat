@@ -1,6 +1,6 @@
 # Peer to Peer Python Chat
 
-This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted a simple chat application with an extremebly barebones protocol in order to learn more about reverse engineering network protocols. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. 
+This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted an extremely bare-bones network-based chat program in order to learn more about reverse engineering network protocols. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. I didn't see a modern one that was simple enough written in Python (although I almost definitely missed some), so this is my attempt at making one.
 
 ## Usage
 
