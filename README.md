@@ -9,8 +9,7 @@ This is a simple chat application based on the [Python Client Server](https://gi
     ex.)
     python messenger.py --mode start --host localhost --port 12345
 
-One thing to note is that if you want to connect to a computer on the same network, you need to use the IP address of your computer on the interface you'll be on, i.e 10.0.0.1. 
-
+If you want to connect two seperate computers, you need to use the IP address of your computer from the interface they'll be on, i.e 10.0.0.1. 
 
 ## Future
 
