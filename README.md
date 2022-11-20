@@ -1,6 +1,6 @@
 # Peer to Peer Python Chat
 
-This is a simple chat application heavily based on the [Python Client Server]("https://github.com/pricheal/python-client-server") project. I wanted a simple chat application with an extremebly barebones protocol. I also wanted to learn more about the Python socket library. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. 
+This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted a simple chat application with an extremebly barebones protocol. I also wanted to learn more about the Python socket library. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. 
 
 ## Usage
 
