@@ -1,6 +1,6 @@
 # Peer to Peer Python Chat
 
-This is a simple chat application heavily based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted an extremely bare-bones network-based chat program in order to learn more about reverse engineering network protocols. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. I didn't see a modern one that was simple enough written in Python (although I almost definitely missed some), so this is my attempt at making one.
+This is a simple chat application based on the [Python Client Server](https://github.com/pricheal/python-client-server) project. I wanted an extremely bare-bones network-based chat program in order to learn more about reverse engineering network protocols. The only reason I didn't use the Python Client Server Project is because I wanted it to be peer to peer, rather than a chat-room style application. I didn't see a modern one that was simple enough written in Python (although I almost definitely missed some), so this is my attempt at making one.
 
 ## Usage
 
@@ -9,8 +9,7 @@ This is a simple chat application heavily based on the [Python Client Server](ht
     ex.)
     python messenger.py --mode start --host localhost --port 12345
 
-One thing to note is that if you want to connect to a computer on the same network, you need to use the IP address of your computer on the interface you'll be on, i.e 10.0.0.1. 
-
+If you want to connect two seperate computers, you need to use the IP address of your computer from the interface they'll be on, i.e 10.0.0.1. 
 
 ## Future
 
