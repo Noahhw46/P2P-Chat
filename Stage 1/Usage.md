@@ -1,6 +1,6 @@
 # Base Messenger Purpose
 
-* The purpose of this stage is to create a baseline program with the fundamental architecture laid down for the rest of the stages
+* The purpose of this stage is to create a baseline program with the fundamental architecture laid down for the rest of the stages.
 
 # Base Messenger Cracking
 
