@@ -17,3 +17,7 @@ If you want to connect two seperate computers, you need to use the IP address of
 * Add cool colors
 * More in-chat commands like '/help', '/quit', maybe stuff to change a future nickname, colors, etc.
 * Usernames and passwords
+
+## Note
+
+* This project grew kind of out of hand and I stopped uploading to this repo. Contact me if you're interested in it. Otherwise, it should be a good starting point for anyone looking to do a similar thing.
